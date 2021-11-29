@@ -159,7 +159,7 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Blue Tanktop',
+          name: 'Teal Textured Tanktop',
           imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
           price: 25
         },
@@ -208,25 +208,25 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Camo Down Vest',
+          name: 'Camo Puffer Vest',
           imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
           price: 325
         },
         {
           id: 2,
-          name: 'Floral T-shirt',
+          name: 'Blue Floral',
           imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
           price: 20
         },
         {
           id: 3,
-          name: 'Black & White Longsleeve',
+          name: 'Black & White Baseball Tee',
           imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
           price: 25
         },
         {
           id: 4,
-          name: 'Pink T-shirt',
+          name: 'Pink Floral',
           imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
           price: 25
         },
