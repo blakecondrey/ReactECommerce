@@ -1,6 +1,8 @@
 body {
   font-family: 'Open Sans Condensed', sans-serif;
   padding: 20px 60px;
+  background-color: #181818;
+  color: #b3b3b3;
 }
 
 a {
