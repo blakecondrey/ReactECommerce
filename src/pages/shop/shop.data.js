@@ -159,32 +159,32 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Teal Textured Tanktop',
-          imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-          price: 25
+          name: 'Lavender Compression Two-Piece',
+          imageUrl: 'https://i.ibb.co/6Z2gz8L/pexels-7700181.webp',
+          price: 65
         },
         {
           id: 2,
-          name: 'Floral Blouse',
-          imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-          price: 20
+          name: 'Green Compression Two-Piece',
+          imageUrl: 'https://i.ibb.co/fkNrjrr/pexels-angela-roma-7479737.webp',
+          price: 65
         },
         {
           id: 3,
-          name: 'Floral Dress',
-          imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-          price: 80
+          name: 'Grey Crop Hoodie',
+          imageUrl: 'https://i.ibb.co/6n8ykP6/pexels-mikhail-nilov-6740038.webp',
+          price: 40
         },
         {
           id: 4,
-          name: 'Red Dots Dress',
-          imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+          name: 'Multi-Color Compression Two-Piece',
+          imageUrl: 'https://i.ibb.co/Qm7XmLs/pexels-godisable-jacob-1055280.webp',
           price: 80
         },
         {
           id: 5,
-          name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+          name: 'GymShark Compression Pants',
+          imageUrl: 'https://i.ibb.co/njFKQ1g/pexels-t-s-5493124.webp',
           price: 45
         },
         {
@@ -195,9 +195,9 @@ const SHOP_DATA = [
         },
         {
           id: 7,
-          name: 'White Blouse',
-          imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-          price: 20
+          name: 'Athletic Face Mask - Black',
+          imageUrl: 'https://i.ibb.co/XVHs1Tc/pexels-monstera-6998744-1.webp',
+          price: 8
         }
       ]
     },
@@ -208,15 +208,15 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Camo Puffer Vest',
-          imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-          price: 325
+          name: 'Grey Long Sleeve 3/4 T',
+          imageUrl: 'https://i.ibb.co/8cNy1bg/pexels-monstera-5384424.webp',
+          price: 29
         },
         {
           id: 2,
-          name: 'Blue Floral',
-          imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-          price: 20
+          name: 'Pink Running Nike T',
+          imageUrl: 'https://i.ibb.co/dLJpVx2/pexels-andrew-personal-training-733500.webp',
+          price: 45
         },
         {
           id: 3,
@@ -226,21 +226,21 @@ const SHOP_DATA = [
         },
         {
           id: 4,
-          name: 'Pink Floral',
-          imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-          price: 25
+          name: 'Multi-Colored Tennis Uni',
+          imageUrl: 'https://i.ibb.co/BgwfZ35/pexels-oliver-sjo-stro-m-1103828.webp',
+          price: 65
         },
         {
           id: 5,
-          name: 'Jean Long Sleeve',
-          imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-          price: 40
+          name: 'Fitted Running Shorts',
+          imageUrl: 'https://i.ibb.co/B2QzZzM/pexels-ketut-subiyanto-4803915.webp',
+          price: 20
         },
         {
           id: 6,
-          name: 'Burgundy T-shirt',
-          imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-          price: 25
+          name: 'Grey DriFit Hoodie',
+          imageUrl: 'https://i.ibb.co/L8kWmHF/pexels-barbara-olsen-7869555.webp',
+          price: 35
         }
       ]
     }
