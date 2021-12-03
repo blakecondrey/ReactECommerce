@@ -12,32 +12,32 @@ class Directory extends React.Component {
             sections: [
                 {
                     title: 'equipment',
-                    imageUrl: 'https://i.ibb.co/5hqTJYZ/pexels-ivan-samkov-4162446.jpg',
+                    imageUrl: 'https://i.ibb.co/LrXdpz7/pexels-ivan-samkov-4162446.webp',
                     id: 1,
                     linkUrl: 'shop/gear'
                 },
                 {
                     title: 'fit tech',
-                    imageUrl: 'https://i.ibb.co/6B7B1ny/pexels-karolina-grabowska-4498479.jpg',
+                    imageUrl: 'https://i.ibb.co/QrZmSR5/pexels-karolina-grabowska-4498479.webp',
                     id: 2,
                     linkUrl: 'shop/fittech'
                 },
                 {
                     title: 'footwear',
-                    imageUrl: 'https://i.ibb.co/8mLwxST/pexels-pixabay-415261.jpg',
+                    imageUrl: 'https://i.ibb.co/MgrTfXL/pexels-pixabay-415261.webp',
                     id: 3,
                     linkUrl: 'shop/footwear'
                 },
                 {
                     title: 'womens',
-                    imageUrl: 'https://i.ibb.co/sHP8yy4/pexels-nathan-cowley-1089144.jpg',
+                    imageUrl: 'https://i.ibb.co/bdstTnG/pexels-nathan-cowley-1089144-1.webp',
                     size: 'large',
                     id: 4,
                     linkUrl: 'shop/womens'
                 },
                 {
                     title: 'mens',
-                    imageUrl: 'https://i.ibb.co/VSZb8D5/pexels-ketut-subiyanto-5039659.jpg',
+                    imageUrl: 'https://i.ibb.co/4YTGswq/pexels-ketut-subiyanto-5039659.webp',
                     size: 'large',
                     id: 5,
                     linkUrl: 'shop/mens'

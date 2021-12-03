@@ -1,61 +1,61 @@
 const SHOP_DATA = [
     {
       id: 1,
-      title: 'Hats',
-      routeName: 'hats',
+      title: 'Equipment',
+      routeName: 'gear',
       items: [
         {
           id: 1,
-          name: 'Brown Brim',
-          imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-          price: 25
+          name: 'Battle Ropes',
+          imageUrl: 'https://i.ibb.co/QPR4NKb/pexels-tima-miroshnichenko-6390228.webp',
+          price: 99
         },
         {
           id: 2,
-          name: 'Blue Beanie',
-          imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+          name: 'Blue Yoga Mat',
+          imageUrl: 'https://i.ibb.co/RgnnN2h/pexels-dmytro-2394051.webp',
           price: 18
         },
         {
           id: 3,
-          name: 'Brown Cowboy',
-          imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-          price: 35
+          name: 'AirDyne Bike',
+          imageUrl: 'https://i.ibb.co/mT116PD/pexels-cottonbro-7689278.webp',
+          price: 239
         },
         {
           id: 4,
-          name: 'Grey Brim',
-          imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-          price: 25
+          name: 'Ergonomic Jump Rope',
+          imageUrl: 'https://i.ibb.co/kqX85rR/pexels-dom-j-45056.webp',
+          price: 15
         },
         {
           id: 5,
-          name: 'Green Beanie',
-          imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-          price: 18
+          name: 'Resistance Band - Tubed',
+          imageUrl: 'https://i.ibb.co/3BKm9vs/pexels-ricky-nugraha-6667512.webp',
+          price: 20
         },
         {
           id: 6,
-          name: 'Palm Tree Cap',
-          imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-          price: 14
+          name: 'Rogue Olympic Bar',
+          imageUrl: 'https://i.ibb.co/m9JT1d1/pexels-victor-freitas-949126.webp',
+          price: 129
         },
         {
           id: 7,
-          name: 'Red Beanie',
-          imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-          price: 18
+          name: 'Gymnastics Rings',
+          imageUrl: 'https://i.ibb.co/4pBcxWy/pexels-victor-freitas-931325.webp',
+          price: 59
         },
         {
           id: 8,
-          name: 'Wolf Cap',
-          imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-          price: 14
+          name: 'Mounted Pull-Up Bar',
+          imageUrl: 'https://i.ibb.co/6mTC7Cs/pexels-rodnae-productions-7187945.webp',
+          price: 99
         },
         {
           id: 9,
-          name: 'Blue Snapback',
-          imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
+          name: 'Exercise Ball',
+          imageUrl: 'https://i.ibb.co/yBmS6wQ/pexels-andrea-piacquadio-3757649.webp',
           price: 16
         }
       ]
@@ -117,37 +117,37 @@ const SHOP_DATA = [
     },
     {
       id: 3,
-      title: 'Jackets',
-      routeName: 'jackets',
+      title: 'Fit Tech',
+      routeName: 'fittech',
       items: [
         {
           id: 1,
-          name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-          price: 125
+          name: 'Apple Watch',
+          imageUrl: 'https://i.ibb.co/mHKLWJk/pexels-torsten-dettlaff-437037.webp',
+          price: 299
         },
         {
           id: 2,
-          name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-          price: 90
+          name: 'Android Watch',
+          imageUrl: 'https://i.ibb.co/MsjzJd9/pexels-jens-mahnke-4679246.webp',
+          price: 129
         },
         {
           id: 3,
-          name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-          price: 90
+          name: 'GShock',
+          imageUrl: 'https://i.ibb.co/QpgQpyB/pexels-pixabay-158741.webp',
+          price: 99
         },
         {
           id: 4,
-          name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+          name: 'Beats by Dre',
+          imageUrl: 'https://i.ibb.co/7vXzdzG/pexels-parag-deshmukh-577769.webp',
           price: 165
         },
         {
           id: 5,
-          name: 'Tan Trench',
-          imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+          name: 'VR Headset',
+          imageUrl: 'https://i.ibb.co/dkbspmz/pexels-andrea-piacquadio-834949.webp',
           price: 185
         }
       ]
