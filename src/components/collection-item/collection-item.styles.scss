@@ -11,7 +11,9 @@
     height: 95%;
     background-size: cover;
     background-position: center;
+    border-radius: 2%;
     margin-bottom: 5px;
+    transition: all 1s;
   }
 
   .custom-button {
@@ -25,6 +27,7 @@
   &:hover {
     .image {
       opacity: 0.8;
+      transform: scale(1.035);
     }
 
     .custom-button {
