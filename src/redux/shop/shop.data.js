@@ -1,7 +1,7 @@
 import IMAGES from "../../images";
 
-const SHOP_DATA = [
-    {
+const SHOP_DATA = {
+    gear: {
       id: 1,
       title: 'Equipment',
       routeName: 'gear',
@@ -62,7 +62,7 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    footwear: {
       id: 2,
       title: 'Footwear',
       routeName: 'footwear',
@@ -117,7 +117,7 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    fitTech: {
       id: 3,
       title: 'Fit Tech',
       routeName: 'fittech',
@@ -154,7 +154,7 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    womens: {
       id: 4,
       title: 'Womens',
       routeName: 'womens',
@@ -203,7 +203,7 @@ const SHOP_DATA = [
         }
       ]
     },
-    {
+    mens: {
       id: 5,
       title: 'Mens',
       routeName: 'mens',
@@ -246,6 +246,6 @@ const SHOP_DATA = [
         }
       ]
     }
-]
+}
 
 export default SHOP_DATA;
