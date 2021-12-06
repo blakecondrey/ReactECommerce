@@ -1,3 +1,5 @@
+import IMAGES from "../../images";
+
 const SHOP_DATA = [
     {
       id: 1,
@@ -7,55 +9,55 @@ const SHOP_DATA = [
         {
           id: 1,
           name: 'Battle Ropes',
-          imageUrl: 'https://i.ibb.co/QPR4NKb/pexels-tima-miroshnichenko-6390228.webp',
+          imageUrl: IMAGES.battleRopes,
           price: 99
         },
         {
           id: 2,
           name: 'Blue Yoga Mat',
-          imageUrl: 'https://i.ibb.co/RgnnN2h/pexels-dmytro-2394051.webp',
+          imageUrl: IMAGES.blueYogaMat,
           price: 18
         },
         {
           id: 3,
           name: 'AirDyne Bike',
-          imageUrl: 'https://i.ibb.co/mT116PD/pexels-cottonbro-7689278.webp',
+          imageUrl: IMAGES.airDyneBike,
           price: 239
         },
         {
           id: 4,
           name: 'Ergonomic Jump Rope',
-          imageUrl: 'https://i.ibb.co/kqX85rR/pexels-dom-j-45056.webp',
+          imageUrl: IMAGES.jumpRope,
           price: 15
         },
         {
           id: 5,
           name: 'Resistance Band - Tubed',
-          imageUrl: 'https://i.ibb.co/3BKm9vs/pexels-ricky-nugraha-6667512.webp',
+          imageUrl: IMAGES.resistanceBands,
           price: 20
         },
         {
           id: 6,
           name: 'Rogue Olympic Bar',
-          imageUrl: 'https://i.ibb.co/m9JT1d1/pexels-victor-freitas-949126.webp',
+          imageUrl: IMAGES.olympicBar,
           price: 129
         },
         {
           id: 7,
           name: 'Gymnastics Rings',
-          imageUrl: 'https://i.ibb.co/4pBcxWy/pexels-victor-freitas-931325.webp',
+          imageUrl: IMAGES.gymnasticRings,
           price: 59
         },
         {
           id: 8,
           name: 'Mounted Pull-Up Bar',
-          imageUrl: 'https://i.ibb.co/6mTC7Cs/pexels-rodnae-productions-7187945.webp',
+          imageUrl: IMAGES.pullUpBar,
           price: 99
         },
         {
           id: 9,
           name: 'Exercise Ball',
-          imageUrl: 'https://i.ibb.co/yBmS6wQ/pexels-andrea-piacquadio-3757649.webp',
+          imageUrl: IMAGES.exerBall,
           price: 16
         }
       ]
@@ -123,31 +125,31 @@ const SHOP_DATA = [
         {
           id: 18,
           name: 'Apple Watch',
-          imageUrl: 'https://i.ibb.co/mHKLWJk/pexels-torsten-dettlaff-437037.webp',
+          imageUrl: IMAGES.iWatch,
           price: 299
         },
         {
           id: 19,
           name: 'Android Watch',
-          imageUrl: 'https://i.ibb.co/MsjzJd9/pexels-jens-mahnke-4679246.webp',
+          imageUrl: IMAGES.android,
           price: 129
         },
         {
           id: 20,
           name: 'GShock',
-          imageUrl: 'https://i.ibb.co/QpgQpyB/pexels-pixabay-158741.webp',
+          imageUrl: IMAGES.gShock,
           price: 99
         },
         {
           id: 21,
           name: 'Beats by Dre',
-          imageUrl: 'https://i.ibb.co/7vXzdzG/pexels-parag-deshmukh-577769.webp',
+          imageUrl: IMAGES.beats,
           price: 165
         },
         {
           id: 22,
           name: 'VR Headset',
-          imageUrl: 'https://i.ibb.co/dkbspmz/pexels-andrea-piacquadio-834949.webp',
+          imageUrl: IMAGES.vrHeadSet,
           price: 185
         }
       ]
@@ -160,31 +162,31 @@ const SHOP_DATA = [
         {
           id: 23,
           name: 'Lavender Compression Two-Piece',
-          imageUrl: 'https://i.ibb.co/6Z2gz8L/pexels-7700181.webp',
+          imageUrl: IMAGES.lavSet,
           price: 65
         },
         {
           id: 24,
           name: 'Green Compression Two-Piece',
-          imageUrl: 'https://i.ibb.co/fkNrjrr/pexels-angela-roma-7479737.webp',
+          imageUrl: IMAGES.greenSet,
           price: 65
         },
         {
           id: 25,
           name: 'Grey Crop Hoodie',
-          imageUrl: 'https://i.ibb.co/6n8ykP6/pexels-mikhail-nilov-6740038.webp',
+          imageUrl: IMAGES.greyCropHoodie,
           price: 40
         },
         {
           id: 26,
           name: 'Multi-Color Compression Two-Piece',
-          imageUrl: 'https://i.ibb.co/Qm7XmLs/pexels-godisable-jacob-1055280.webp',
+          imageUrl: IMAGES.multiCol,
           price: 80
         },
         {
           id: 27,
           name: 'GymShark Compression Pants',
-          imageUrl: 'https://i.ibb.co/njFKQ1g/pexels-t-s-5493124.webp',
+          imageUrl: IMAGES.gymSharkPants,
           price: 45
         },
         {
@@ -196,7 +198,7 @@ const SHOP_DATA = [
         {
           id: 29,
           name: 'Athletic Face Mask - Black',
-          imageUrl: 'https://i.ibb.co/XVHs1Tc/pexels-monstera-6998744-1.webp',
+          imageUrl: IMAGES.blackFaceMask,
           price: 8
         }
       ]
@@ -209,13 +211,13 @@ const SHOP_DATA = [
         {
           id: 30,
           name: 'Grey Long Sleeve 3/4 T',
-          imageUrl: 'https://i.ibb.co/8cNy1bg/pexels-monstera-5384424.webp',
+          imageUrl: IMAGES.greyThreeQuarter,
           price: 29
         },
         {
           id: 31,
           name: 'Pink Running Nike T',
-          imageUrl: 'https://i.ibb.co/dLJpVx2/pexels-andrew-personal-training-733500.webp',
+          imageUrl: IMAGES.pinkNike,
           price: 45
         },
         {
@@ -227,19 +229,19 @@ const SHOP_DATA = [
         {
           id: 33,
           name: 'Multi-Colored Tennis Uni',
-          imageUrl: 'https://i.ibb.co/BgwfZ35/pexels-oliver-sjo-stro-m-1103828.webp',
+          imageUrl: IMAGES.tennis,
           price: 65
         },
         {
           id: 34,
           name: 'Fitted Running Shorts',
-          imageUrl: 'https://i.ibb.co/B2QzZzM/pexels-ketut-subiyanto-4803915.webp',
+          imageUrl: IMAGES.shorts,
           price: 20
         },
         {
           id: 35,
           name: 'Grey DriFit Hoodie',
-          imageUrl: 'https://i.ibb.co/L8kWmHF/pexels-barbara-olsen-7869555.webp',
+          imageUrl: IMAGES.driFit,
           price: 35
         }
       ]
