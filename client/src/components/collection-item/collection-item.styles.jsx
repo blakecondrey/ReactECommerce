@@ -27,6 +27,7 @@ export const CollectionItemContainer = styled.div`
         &:hover {
             .image {
                 opacity: unset;
+                transform: unset;
             }
 
             button {
