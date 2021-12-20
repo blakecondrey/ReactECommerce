@@ -1,3 +1,23 @@
+# ReactECommerce
+
+<h2>This fully functional mock e-commerce site was developed to learn the <strong>MERN</strong> stack.</h2>
+<h2>Tools used:</h2>
+<ul>
+  <li> React (create-react-app) </li>
+  <li> React-Redux </li>
+  <li> Redux-Saga </li>
+  <li> React-Router </li>
+  <li> Stripe Payments API </li>
+  <li> Google Firebase </li>
+ </ul>
+ 
+ </br>
+ <h2>Back-end Development</h2>
+ <p>An express server was implemented to handle Stripe Payments (test mode) and to reflect successful payments in Stripe Dashboard.</p>
+<p> Google Firebase implemented with Authentication for user sign-up and sign-in, and Firebase NoSQL database stores collection of authenticated users 
+and collection of mock inventory for proof-of-concept of scaling inventory and to separate inventory from client-side, to server-side rendering. </p>
+
+</br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
