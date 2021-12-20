@@ -1,6 +1,6 @@
 import React from "react";
 
-import './custom-button.styles.scss';
+import './custom-button.styles';
 
 import { CustomButtomContainer } from "./custom-button.styles";
 
