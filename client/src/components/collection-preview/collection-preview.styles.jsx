@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 export const CollectionPreviewContainer = styled.div`
     display: flex;
@@ -24,4 +25,9 @@ export const PreviewContainer = styled.div`
         grid-template-columns: 1fr 1fr;
         gap: 15px;
     }
+`;
+
+export const TitleLink = styled(Link)`
+    color: #b3b3b3;
+    ${TitleContainer}
 `;

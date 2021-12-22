@@ -5,12 +5,15 @@ import CollectionItem from "../collection-item/collection-item.component";
 import {
     CollectionPreviewContainer,
     TitleContainer,
+    TitleLink,
     PreviewContainer
 } from './collection-preview.styles'
 
 const CollectionPreview = ({ title, items }) => (
     <CollectionPreviewContainer>
-        <TitleContainer>{title.toUpperCase()}</TitleContainer>
+        <TitleContainer>
+            <TitleLink to={`/shop/${title.toLowerCase()}`}>{title.toUpperCase()}</TitleLink>
+        </TitleContainer>
         <PreviewContainer>
             {items
                 .filter((item, idx) => idx < 4)
