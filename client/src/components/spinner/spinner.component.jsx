@@ -1,14 +1,14 @@
 import React from "react";
 
 import {
-    SpinnerContainer,
-    SpinnerOverlay
+  SpinnerContainer,
+  SpinnerOverlay,
 } from "../with-spinner/with-spinner.styles";
 
 const Spinner = () => (
-    <SpinnerOverlay>
-        <SpinnerContainer />
-    </SpinnerOverlay>
+  <SpinnerOverlay>
+    <SpinnerContainer />
+  </SpinnerOverlay>
 );
 
 export default Spinner;

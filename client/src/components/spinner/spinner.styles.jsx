@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const SpinnerOverlay = styled.div`
   height: 60vh;
@@ -17,7 +17,7 @@ export const SpinnerContainer = styled.div`
   border-top-color: #636767;
   animation: spin 1s ease-in-out infinite;
   -webkit-animation: spin 1s ease-in-out infinite;
-  
+
   @keyframes spin {
     to {
       -webkit-transform: rotate(360deg);
@@ -28,4 +28,4 @@ export const SpinnerContainer = styled.div`
       -webkit-transform: rotate(360deg);
     }
   }
-`; 
+`;
